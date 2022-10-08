@@ -19,36 +19,36 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['96891103640']
-global.premium = ['96891103640']
-global.ownernomer = '96891103640'
-global.ownername = '( الـمـطـور )'
-global.botname = '( بـوت غـوجـو )'
+global.owner = ['212643518126']
+global.premium = ['212643518126']
+global.ownernomer = '212643518126'
+global.ownername = '( رقم المطور )'
+global.botname = '( بـوت اتــاشي )'
 global.footer = '( غـوجـو )'
 global.ig = 'https://github.com/nexusNw'
 global.region = 'India, South India, Kerala'
-global.sc = 'https://chat.whatsapp.com/CKLmAGJo3iw5AvNM1KZee3'
-global.myweb = 'https://youtube.com/channel/UCPvrnWknQrgCSIeobXMP0Uw'
-global.packname = 'https://Wa.Me/+96891103640'
+global.sc = 'https://chat.whatsapp.com/CCQWGmklzFT82H5vbnnunh'
+global.myweb = 'https://www.instagram.com/invites/contact/?i=1rrummmjy1i1l&utm_content=mt8ktfr‎‏'
+global.packname = 'https://Wa.Me/+212643518126'
 global.author = '[ غـوجـو ]'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: '✓',
-    admin: '*「 هـذا الامـر فـقـط لـ المـشـرفـيـن 」◣*',
-    botAdmin: '*「 اعـطـنـي إشـراف لـتـفـعـيـل  الامـر 」◣*',
-    owner: '*「 هـذا الامـر فـقـط لـ الـمـالـك 」◣*',
-    group: '*「 هـذا الامـر فـي الـمـجـمـوعـات فـقـط 」◣*',
-    private: '*「 هـذا الامـر فـي الـخـاص فـقـط 」◣*',
-    bot: '*「 هـذا الامـر مـخـصـص لـ الـبـوت 」◣*',
-    wait: '*「 انـتـظـر مـن فـضـلـك 」◣*',
+    success: 'تـم😁',
+    admin: '*「 🙂🤌هـذا الامـر فـقـط لـ المـشـرفـيـن 」◣*',
+    botAdmin: '*「 مــاعندي اشراف 😑🔪 」◣*',
+    owner: '*「 😁هـذا الامـر فـقـط لـ الـمـالـك 」◣*',
+    group: '*「 ⛔هـذا الامـر فـي الـمـجـمـوعـات فـقـط 」◣*',
+    private: '*「 ⛔هـذا الامـر فـي الـخـاص فـقـط 」◣*',
+    bot: '*「 🐔هـذا الامـر مـخـصـص لـ الـبـوت 」◣*',
+    wait: '*「 🔪…انـتظر قليلا من فضلك  」◣*',
     error: 'Error! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 1000 Hours',
 }
     global.limitawal = {
     premium: "Infinity",
-    free: 12,
+    free: "Infinity",
     monayawal: 1000
 }
    global.rpg = {
